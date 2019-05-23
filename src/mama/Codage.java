@@ -1,9 +1,10 @@
 package mama;
 
-public class Demo {
+public class Codage {
 
 	public static void main(String[] args) {
-		System.out.print("toto");
+		System.out.println("malphadiallo");
+
 	}
 
 }
